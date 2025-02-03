@@ -167,15 +167,15 @@ padding: 40px;
 /*page4*/
 
 .page4 {
-   padding-top: 160px;
-   padding-bottom: 160px;
-  
+   padding: 160px 400px;
+
 }
 
 .newsletter {
    min-width: 570px;
-   justify-content: center;
    text-align: center;
+   justify-content: center;
+ 
 
 
 }
@@ -183,6 +183,7 @@ padding: 40px;
 .input-group {
    font-weight: 400;
    font-size: 14px;
+
 
 
 
@@ -195,6 +196,8 @@ padding: 40px;
    border-radius: 3px;
    padding: 15px 20px;
    background-color: #fdfdfd;
+   
+
 
 }
 
