@@ -110,13 +110,21 @@ padding-left: 100px;
    color: #252B42;
    font-size: 40px;
    font-weight: bold;
+   margin-top: 20px;
 }
 
 .text {
    color: #737373;
    font-size: 14px;
    font-weight: 500;
+   margin-top: 15px;
    
+}
+
+.line-mini {
+   height: 3px;
+   
+
 }
 
 .courses {
@@ -149,7 +157,7 @@ padding: 40px;
 
  
 .main-course {
-   margin-top: 100px;
+   margin-top: 70px;
 }
 
 
@@ -160,9 +168,6 @@ padding: 40px;
    
 }
 
-.picture {
-
-}
 
 /*page4*/
 
